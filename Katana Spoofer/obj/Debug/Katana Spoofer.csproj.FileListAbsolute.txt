@@ -1,0 +1,12 @@
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\bin\Debug\Katana Spoofer.exe.config
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\bin\Debug\Katana Spoofer.exe
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\bin\Debug\Katana Spoofer.pdb
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.csproj.AssemblyReference.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana_Spoofer.Form1.resources
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana_Spoofer.Properties.Resources.resources
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.csproj.GenerateResource.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.exe.licenses
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.exe
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\Katana Spoofer\obj\Debug\Katana Spoofer.pdb
