@@ -9,6 +9,5 @@ Spoofer Options:
 - Computer Name
 - MAC Address
 
-
-Update Notes:
+Version Update Notes:
 - Fixed Installer Bugs
